@@ -14,7 +14,7 @@ International movies, Dramas, Comedies Documentaries are popular genres across a
 3a) Due to the large audience of 14+ in India, 14+ content is highly recommended.
 3b) Content rating "MA" is recommended for the USA.
 
-4)Comedy Genre is the most popular.
+4) Comedy Genre is the most popular.
 5) Maximum movies and TV Shows are rated as TV-MA.
 6) Duration: 
 6a)The average duration of a movie is 107 minutes and the duration of most movies is between 80 to 100 minutes.
